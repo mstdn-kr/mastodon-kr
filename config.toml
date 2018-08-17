@@ -1,0 +1,10 @@
+baseURL = "https://mastodon.kr/"
+languageCode = "ko-kr"
+title = "Mastodon KR"
+
+hasCJKLanguage = true
+
+theme = "hugo-theme-learn"
+
+[params]
+  themeVariant = "red"
